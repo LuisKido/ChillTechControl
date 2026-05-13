@@ -1,5 +1,7 @@
 # ChillTechControl
 
+![Estado](https://img.shields.io/badge/estado-en%20dise%C3%B1o-blue) ![Fase](https://img.shields.io/badge/fase-MVP-orange) ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
+
 > **Controla el tiempo de pantalla. Gana tiempo de vida.**
 
 ChillTechControl es una aplicación multiplataforma que permite a padres e hijos gestionar de forma colaborativa el tiempo de uso de dispositivos tecnológicos, promoviendo pausas saludables y un desarrollo infantil más equilibrado.
